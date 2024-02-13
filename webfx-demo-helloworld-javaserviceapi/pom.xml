@@ -11,22 +11,6 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>webfx-demo-helloworld-console</artifactId>
-
-    <dependencies>
-
-        <dependency>
-            <groupId>com.google.elemental2</groupId>
-            <artifactId>elemental2-dom</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>dev.webfx</groupId>
-            <artifactId>webfx-demo-helloworld-javaserviceapi</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-            <scope>provided</scope>
-        </dependency>
-
-    </dependencies>
+    <artifactId>webfx-demo-helloworld-javaserviceapi</artifactId>
 
 </project>
