@@ -1,7 +1,6 @@
 // File managed by WebFX (DO NOT EDIT MANUALLY)
 package java.util;
 
-import java.util.Iterator;
 import java.util.logging.Logger;
 import java.util.function.Supplier;
 

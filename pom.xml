@@ -39,6 +39,7 @@
         <module>webfx-demo-helloworld-application-gwt</module>
         <module>webfx-demo-helloworld-application-j2cl</module>
         <module>webfx-demo-helloworld-application-openjfx</module>
+        <module>webfx-demo-helloworld-console</module>
     </modules>
 
 </project>
